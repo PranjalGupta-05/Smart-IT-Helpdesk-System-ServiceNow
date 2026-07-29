@@ -210,7 +210,7 @@ Potential improvements for future versions:
 # 🎥 Project Demo
 
 Demo Video:
-*Add LinkedIn or YouTube video link here*
+(https://www.linkedin.com/posts/pranjal-gupta-55b667327_servicenow-itsm-workflowautomation-activity-7458402500736434176-z41Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKAUFcBcJlQysqhNsMF0rW6peIzNm4NUSg)
 
 ---
 
